@@ -5,7 +5,7 @@ name = "integration_test"
 version = "0.1.0"
 
 [dependencies]
-bitcoin = {git = "https://github.com/boolnetwork/rust-dogecoin", rev = "c976a25"}
+bitcoin = {git = "https://github.com/oraichain/rust-dogecoin", rev = "ce0554a"}
 bitcoincore-rpc = {path = "../client"}
 lazy_static = "1.4.0"
 log = "0.4"
